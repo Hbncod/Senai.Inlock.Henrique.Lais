@@ -10,7 +10,7 @@ namespace Senai.InLock.WebApi.Repository
 {
     public class EstudiosRepository : IEstudiosRepository
     {
-        private string stringConexao = "";
+        private string stringConexao = "Data Source=DEV102\\SQLEXPRESS; initial catalog=InLock_Games_Manha; user Id=sa; pwd=sa@132";
 
         public List<EstudiosDomain> ListarEstudios()
         {

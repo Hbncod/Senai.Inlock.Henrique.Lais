@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Senai.InLock.WebApi.Domains;
@@ -21,6 +22,7 @@ namespace Senai.InLock.WebApi.Controllers
             _estudiosRepository = new EstudiosRepository();
         }
 
+        [Authorize(Roles = "1")]
         [HttpGet]
         public IEnumerable<EstudiosDomain> GetEstudios()
         {
