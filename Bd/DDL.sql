@@ -29,3 +29,8 @@
   Fk_TipoUsuario INT FOREIGN KEY REFERENCES Usuarios (Id_Usuario)
   )
   GO
+
+  select Id_Jogo,NomeJogo,Descricao,DataLancamento,Valor,Fk_Estudio  from Jogos
+	 outer JOIN left Estudios
+	ON Jogos.Fk_Estudio = Estudios.Id_Estudio;
+  
