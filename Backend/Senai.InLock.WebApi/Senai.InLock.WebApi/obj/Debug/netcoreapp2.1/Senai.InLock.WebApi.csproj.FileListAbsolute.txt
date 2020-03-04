@@ -1,0 +1,64 @@
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.deps.json
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.json
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.dev.json
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csprojAssemblyReference.cache
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cache
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cs
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfoInputs.cache
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfo.cs
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\49826159859\source\repos\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.deps.json
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.json
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.dev.json
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csprojAssemblyReference.cache
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cache
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cs
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfoInputs.cache
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfo.cs
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\49826159859\Desktop\as\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.deps.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.dev.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfoInputs.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.xml
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.xml
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.deps.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.dev.json
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.xml
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfoInputs.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.xml
+C:\Users\HENRIQUE\Desktop\trabalho em equipe\Senai.Inlock.Henrique.Lais\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.pdb

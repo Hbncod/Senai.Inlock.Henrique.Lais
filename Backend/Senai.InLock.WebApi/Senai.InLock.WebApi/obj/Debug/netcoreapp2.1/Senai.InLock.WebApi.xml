@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Senai.InLock.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Senai.InLock.WebApi.Interface.IEstudiosRepository.ListarEstudios">
+            <summary>
+            Lista todos os estudios
+            </summary>
+            <returns>Retorna todos os Estudios</returns>
+        </member>
+    </members>
+</doc>
